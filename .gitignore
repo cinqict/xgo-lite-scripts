@@ -19,4 +19,3 @@ build/
 ### VS Code ###
 .vscode/
 /.mvn/
-/.idea/
